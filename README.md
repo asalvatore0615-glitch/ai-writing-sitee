@@ -1,5 +1,5 @@
 # How College Students Use ChatGPT for Writing and Research  
-*A Digital Media Project — Soft Nude • Modern • Minimal*
+A Digital Media Project
 
 This project explores how college students use ChatGPT as a tool for writing, research, and academic support. Our website presents key findings, benefits, risks, and ethical considerations through a clean, modern, soft-nude aesthetic inspired by minimal digital design.
 
