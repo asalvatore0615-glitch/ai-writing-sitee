@@ -19,12 +19,6 @@ The project includes:
 - Student demographics and adoption trends  
 - Academic writing impact based on research studies  
 
-## 🎨 Aesthetic Style
-- Soft nude color palette (#f4e8e1, #faf7f5)  
-- Modern serif + sans-serif fonts (Playfair Display + Poppins)  
-- Minimal spacing, rounded containers, and clean visuals  
-- Navigation bar for simple site movement  
-
 ## ✨ Purpose of This Project
 This website was created for a group digital media assignment to show:
 - How students use AI tools  
@@ -34,6 +28,6 @@ This website was created for a group digital media assignment to show:
 
 ## 👥 Group Members
 - Ava  
-- (Add group member names here)  
-
-## 📁 File Structure
+- Alexa
+- Rocco
+- Marissa   
